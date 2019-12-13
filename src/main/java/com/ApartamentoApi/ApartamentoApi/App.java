@@ -14,7 +14,7 @@ public class App {
   
 	public static void main(String[] args) {
 		SpringApplication.run(App.class, args);
-
+		//*********************/
 		// INSERTAR Y GUARDAR
 		List<Persona> perlist = new ArrayList<Persona>();
 		Persona per = new Persona();
